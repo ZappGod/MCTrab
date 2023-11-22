@@ -40,4 +40,5 @@ Após o treinamento, foram obtidos os resultados e métricas de desempenho do mo
 Com base nos resultados obtidos, concluímos que a rede neural implementada apresenta...
 
 6. Referências
+https://www.kaggle.com/datasets/maso0dahmed/netflix-movies-and-shows/data
 [Lista de referências utilizadas]
