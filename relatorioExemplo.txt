@@ -6,12 +6,12 @@ Disciplina: [Nome da Disciplina]
 Professor: [Nome do Professor]
 Data: [Data de Entrega]
 Sumário
-Introdução
-Metodologia
-Desenvolvimento
-Resultados e Discussão
-Conclusão
-Referências
+1.Introdução
+2.Metodologia
+3.Desenvolvimento
+4.Resultados e Discussão
+5.Conclusão
+6.Referências
 1. Introdução
 O presente relatório tem como objetivo explorar a utilização de redes neurais para previsão de votos em filmes e séries. O conjunto de dados utilizado contém informações sobre ano de lançamento, duração e pontuação no IMDB, buscando relacionar esses dados com a quantidade de votos recebidos.
 
